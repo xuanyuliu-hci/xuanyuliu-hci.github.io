@@ -17,12 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Xuanyu Liu. I'm an incoming CS Ph.D. student at University of Toronto, where I will be advised by <a href='https://www.cs.toronto.edu/~khai/'>Prof. Khai N. Truong</a>. I'm currently a final-year master student in the <a href='https://www.si.umich.edu/'>School of Information</a> at the University of Michigan. During my master, I had the honor of learning from and collaborating with leading HCI researchers, including <a href='https://www.gabrielamarcu.com/'>Dr. Gabriela Marcu</a>, <a href='https://yardi.people.si.umich.edu/'>Prof. Sarita Schoenebeck</a>, and <a href='https://web.eecs.umich.edu/~profdj/'>Dr. Dhruv Jain</a> at the University of Michigan; <a href='https://zhenbai.io/'>Dr. Zhen Bai</a> at the University of Rochester; <a href='https://raylc.org/'>Dr. Ray LC</a> at the City University of Hong Kong; and <a href='https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-so-wing-chee-catherine/'>Prof. Wing-chee So</a> at the Chinese University of Hong Kong. Prior to joining UMich, I obtained my bachelor's degree at the University College London, advised by <a href='https://profiles.ucl.ac.uk/30634-aneesha-singh'>Dr. Aneesha Singh</a>.
+Hi, I'm Xuanyu Liu. I'm a first-year CS Ph.D. student at University of Toronto, where I will be advised by <a href='https://www.cs.toronto.edu/~khai/'>Prof. Khai N. Truong</a>. Prior to joining UofT, I obtained my master's degree at the University of Michigan and bachelor's degree at the University College London.
 
 As a Human-Computer Interaction (HCI) researcher, my research aims to examine how technology can genuinely support marginalized communities. I'm particularly focused on developing inclusive design approaches that center users as experts in their own experiences. 
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🫡 Officially started my PhD study!
+- *2026.07*: &nbsp;🙌 Thrilled to have received the Canada Impact+ Research Training Award (CIRTA) from NSERC! Excited to continue my doctoral research and make a meaningful contribution to the field and beyond!
+- *2026.05*: &nbsp;🤓 I’ll be giving an improvised talk about my research at <a href='https://www.instagram.com/extracreditimprov?gwpx=NDE0OWV1NmJ0eHNj'>Extra Credit Improv</a>!
 - *2026.01*: &nbsp;🥳 My first-author paper, Systematic Literature Review on Social Support, has been accepted to CHI 2026. Looking forward to seeing the HCI community in Barcelona!
 - *2025.10*: &nbsp;🚀 I'll be attending the ASSETS 2025 to present my First author work 'CoSignPlay'. It's on 10/28 Session 6A!
 - *2025.10*: &nbsp;🎉 "Comparative Effectiveness of Human- and Robot-Based Interventions in Increasing Empathy Among Autistic Children" accepted to JADD 2025!
