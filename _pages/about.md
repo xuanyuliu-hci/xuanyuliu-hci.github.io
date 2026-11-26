@@ -76,7 +76,3 @@ Xiao-Han Li, Ming Lui, Xue-ke Song, Yu-Ru Li, **Xuanyu Liu**, Renee Pi, Wing-Che
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2025.10* Student Conference Grant ($1,000), School of Information, University of Michigan 
-- *2025.07* Internship Grant ($3,000), School of Information, University of Michigan
-- *2025.04* Student Conference Grant ($1,000), School of Information, University of Michigan 
