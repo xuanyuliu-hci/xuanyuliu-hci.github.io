@@ -24,6 +24,7 @@ As a Human-Computer Interaction (HCI) researcher, my research aims to examine ho
 
 # 🔥 News
 - *2026.09*: &nbsp;🫡 Officially started my PhD study!
+- *2026.08*: &nbsp;😃 My position paper has been accepted to the “Celebratory Technology for Neurodiversity: Designing for the Freedom to Be Me” workshop at ASSETS 2026!
 - *2026.07*: &nbsp;🙌 Thrilled to have received the Canada Impact+ Research Training Award (CIRTA) from NSERC! Excited to continue my doctoral research and make a meaningful contribution to the field and beyond!
 - *2026.05*: &nbsp;🤓 I’ll be giving an improvised talk about my research at <a href='https://www.instagram.com/extracreditimprov?gwpx=NDE0OWV1NmJ0eHNj'>Extra Credit Improv</a>!
 - *2026.01*: &nbsp;🥳 My first-author paper, Systematic Literature Review on Social Support, has been accepted to CHI 2026. Looking forward to seeing the HCI community in Barcelona!
